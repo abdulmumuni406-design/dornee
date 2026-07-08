@@ -10,14 +10,14 @@ const slides = [
      {
     image: d8,
     badge: "Attention stealing",
-    title: "Endless Coastal Bliss",
-    text: "Wide, dramatic, and polished enough to make the whole page feel expensive.",
+    title: "Chic style, bold presence",
+    text: "Welcome to Dornee Atelier! We're thrilled to have you here. Explore our collection and discover something special.",
   },
   {
     image: d1,
     badge: "Luxury stays",
-    title: "Sun. Sea. Serenity",
-    text: "A premium escape designed to feel cinematic, calm, and unforgettable.",
+    title: "Discover the Extraordinary",
+    text: "A premium escape designed to feel elegant, calm, and unforgettable.",
   },
   {
     image: d16,

@@ -30,7 +30,7 @@ const Navbar = () => {
               isScrolled ? "text-black" : "text-white"
             }`}
           >
-            BestBeachGh
+            DORNEE ATELIER
           </Link>
 
           {/* Desktop Menu */}
@@ -53,8 +53,8 @@ const Navbar = () => {
               className={`group relative text-sm font-medium uppercase tracking-wider transition-all duration-300 ${
                 isScrolled ? "text-black" : "text-white"
               }`}
-            >
-              Menus
+            >Services
+              
               <span
                 className={`absolute -bottom-2 left-0 h-[2px] w-0 transition-all duration-300 group-hover:w-full ${
                   isScrolled ? "bg-black" : "bg-white"
@@ -139,7 +139,7 @@ const Navbar = () => {
             onClick={() => setMobileOpen(false)}
             className="text-2xl font-medium text-black transition-transform duration-300 hover:scale-105"
           >
-            Menus
+             Services
           </Link>
           <Link
             to="/about-us"
