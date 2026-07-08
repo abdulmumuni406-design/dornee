@@ -1,6 +1,6 @@
 import React from 'react'
 import Homehero from '../components/Homehero'
-import Works from '../components/works'
+import Works from '../components/Works'
 const Home = () => {
   return ( 
   <>
