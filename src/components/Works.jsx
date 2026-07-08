@@ -5,45 +5,40 @@ import { EffectCoverflow, Navigation, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/effect-coverflow";
+import d11 from "../assets/d11.jpg";
 
 const places = [
   {
-    name: "Red Cocktail",
-    image:
-      "https://images.pexels.com/photos/16467615/pexels-photo-16467615.jpeg",
+    name: "Fashion one",
+    image: d11,
   },
   {
     name: "Fried Rice & Chicken",
-    image:
-      "https://images.pexels.com/photos/29848156/pexels-photo-29848156.jpeg",
+    image: d11
   },
   {
     name: "Our View",
-    image:
-      "https://images.pexels.com/photos/37853195/pexels-photo-37853195.jpeg",
+    image: d11
   },
   {
     name: "Cocktail With Orange",
-    image: "https://images.pexels.com/photos/9119755/pexels-photo-9119755.jpeg",
+    image: d11,
   },
   {
     name: "Cooked Food",
-    image:
-      "https://images.pexels.com/photos/13699080/pexels-photo-13699080.jpeg",
+    image: d11,
   },
   {
     name: "Our Night Life",
-    image: "https://images.pexels.com/photos/4306971/pexels-photo-4306971.jpeg",
+    image: d11,
   },
   {
     name: "Cape Town",
-    image:
-      "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?q=80&w=2070&auto=format&fit=crop",
+    image: d11,
   },
   {
     name: "Party With Us",
-    image:
-      "https://images.pexels.com/photos/15921581/pexels-photo-15921581.jpeg",
+    image: d11,
   },
 ];
 
