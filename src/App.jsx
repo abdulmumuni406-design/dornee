@@ -5,6 +5,7 @@ import Home from './pages/Home'
 const App = () => {
   return (
     <Routes>
+      <Navbar/>
       <Route path="/" element={<Home />} />
     </Routes>
   )

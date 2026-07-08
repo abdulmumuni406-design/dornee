@@ -6,8 +6,9 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/effect-coverflow";
 import d11 from "../assets/d11.jpg";
-import d1 from "../assets/d1.jpg";
-import d2 from "../assets/d2.jpg";
+import d5 from "../assets/d5.jpg";
+import d6 from "../assets/d6.jpg";
+import d14 from "../assets/d14.jpg";
 const places = [
   {
     name: "Fashion one",
@@ -15,15 +16,15 @@ const places = [
   },
   {
     name: "Fashion two",
-    image: d1
+    image: d5
   },
   {
     name: "Fashion three",
-    image: d2
+    image: d6
   },
   {
-    name: "Cocktail With Orange",
-    image: d11,
+    name: "Fashion four",
+    image: d14,
   },
   {
     name: "Cooked Food",
