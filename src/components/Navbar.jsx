@@ -155,10 +155,6 @@ const Navbar = () => {
           >
             Contact
           </Link>
-
-          <button className="mt-4 rounded-full bg-black px-8 py-3 text-white">
-            Book Now
-          </button>
         </div>
       </div>
     </>
