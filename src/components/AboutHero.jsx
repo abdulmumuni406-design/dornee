@@ -9,7 +9,7 @@ import gsap from "gsap";
  *
  * npm i gsap @gsap/react
  */
-export default function ContactHero() {
+export default function AboutHero() {
   const heroRef = useRef(null);
 
   useGSAP(
@@ -76,11 +76,11 @@ export default function ContactHero() {
           data-eyebrow
           className="font-['Space_Mono'] text-[11px] uppercase tracking-[0.3em] text-[#B76E79]"
         >
-         
+          About Dornee — Est. 2019
         </p>
 
         <h1 className="mt-6 font-['Fraunces'] text-[15vw] leading-[0.92] text-[#F6F1EA] sm:text-[8rem] lg:text-[7.5rem]">
-          {["Contact Us"].map((line) => (
+          {["We design", "for the way", "she moves."].map((line) => (
             <span key={line} className="block overflow-hidden">
               <span data-line className="block">
                 {line.split(" ").map((word, i) =>
