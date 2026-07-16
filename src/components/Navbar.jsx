@@ -89,18 +89,7 @@ const Navbar = () => {
             </Link>
           </nav>
 
-          {/* CTA */}
-          <div className="hidden lg:block">
-            <button
-              className={`rounded-full px-6 py-3 text-sm font-semibold transition-all duration-300 ${
-                isScrolled
-                  ? "bg-black text-white hover:bg-neutral-800"
-                  : "bg-white text-black hover:bg-neutral-100"
-              }`}
-            >
-              Book Now
-            </button>
-          </div>
+  
 
           {/* Mobile Button */}
           <button
